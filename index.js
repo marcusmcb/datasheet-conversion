@@ -5,8 +5,8 @@ const { MongoClient } = require('mongodb');
 dotenv.config()
 
 const uri = process.env.MONGODB_URI
-const dbName = 'coverland_data';  // Name your database
-const collectionName = 'product_data';  // Name your collection
+const dbName = 'coverland_data'
+const collectionName = 'product_data'
 
 async function insertDataIntoMongoDB(data) {
     const client = new MongoClient(uri, { useUnifiedTopology: true });
@@ -33,6 +33,7 @@ fs.readFile('../../code/datasheet_conversion/output.json', 'utf8', (err, jsonStr
     try {
         const data = JSON.parse(jsonString);
         insertDataIntoMongoDB(data);
+        console.log("ARRAY LENGTH: ", data.length)
     } catch (error) {
         console.error('Error parsing JSON:', error);
     }
