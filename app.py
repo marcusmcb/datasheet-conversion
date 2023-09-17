@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Load configuration from environment variables
 MONGODB_URI = os.getenv("MONGODB_URI")
 DB_NAME = 'coverland_data'
 COLLECTION_NAME = 'product_data'
@@ -19,7 +18,7 @@ def insert_data_into_mongodb(data):
         # Insert each object in the array as separate documents in the collection
         collection.insert_many(data)
         print('Data inserted successfully!')
-    except Exception as insert_error:  # Renamed from e to insert_error
+    except Exception as insert_error:
         print('Error inserting data:', insert_error)
     finally:
         client.close()
@@ -30,7 +29,7 @@ if __name__ == "__main__":
             data = json.load(file)
             insert_data_into_mongodb(data)
             print("ARRAY LENGTH:", len(data))
-        except json.JSONDecodeError as json_error:  # Renamed for clarity
+        except json.JSONDecodeError as json_error:
             print('Error parsing JSON:', json_error)
-        except Exception as file_error:  # Renamed for clarity
+        except Exception as file_error:
             print('Error reading the file:', file_error)
