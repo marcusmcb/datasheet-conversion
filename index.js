@@ -5,8 +5,8 @@ const { MongoClient } = require('mongodb');
 dotenv.config()
 
 const uri = process.env.MONGODB_URI
-const dbName = 'coverland_data'
-const collectionName = 'product_data'
+const dbName = 'coverland_data_edited'
+const collectionName = 'product_lists'
 
 async function insertDataIntoMongoDB(data) {
     const client = new MongoClient(uri, { useUnifiedTopology: true });
@@ -25,7 +25,7 @@ async function insertDataIntoMongoDB(data) {
     }
 }
 
-fs.readFile('../../code/datasheet_conversion/output.json', 'utf8', (err, jsonString) => {
+fs.readFile('./mini_data_set.json', 'utf8', (err, jsonString) => {
     if (err) {
         console.error('Error reading the file:', err);
         return;
