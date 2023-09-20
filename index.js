@@ -25,7 +25,7 @@ const insertDataIntoMongoDB = async (data) => {
 	}
 }
 
-fs.readFile('./json/mini_data_set.json', 'utf8', (err, jsonString) => {
+fs.readFile('./json/updated_DB_test_sheet_FULL.json', 'utf8', (err, jsonString) => {
 	if (err) {
 		console.error('Error reading the file:', err)
 		return
