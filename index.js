@@ -8,7 +8,7 @@ const uri = process.env.MONGODB_URI
 const dbName = 'coverland_data_edited'
 const collectionName = 'product_lists'
 
-const insertDataIntoMongoDB = (data) => {
+const insertDataIntoMongoDB = async (data) => {
 	const client = new MongoClient(uri, { useUnifiedTopology: true })
 	try {
 		await client.connect()

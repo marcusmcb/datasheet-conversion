@@ -13,5 +13,5 @@ const csvToJson = (filePath, outputFilePath) => {
 	})
 }
 
-csvToJson('./data/updated_DB_test_sheet_mini.csv', 'mini_data_set.json')
-csvToJson('./data/coverland_data_20230828.csv', 'coverland_data_20230828.json')
+csvToJson('./data/updated_DB_test_sheet_mini.csv', './json/mini_data_set.json')
+csvToJson('./data/coverland_data_20230828.csv', './json/coverland_data_20230828.json')
