@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 MONGODB_URI = os.getenv("MONGODB_URI")
-DB_NAME = 'coverland_data'
-COLLECTION_NAME = 'product_data'
+DB_NAME = 'coverland_data_edited'
+COLLECTION_NAME = 'product_lists'
 
 def insert_data_into_mongodb(data):
     """Insert data into MongoDB."""
@@ -24,7 +24,7 @@ def insert_data_into_mongodb(data):
         client.close()
 
 if __name__ == "__main__":
-    with open('./output.json', 'r') as file:
+    with open('./json/mini_data_set.json', 'r') as file:
         try:
             data = json.load(file)
             insert_data_into_mongodb(data)
