@@ -1,21 +1,8 @@
 const products = require('./json/updated_DB_test_sheet_FULL.json')
-const uniqueMakes = {}
-const uniqueYears = {}
-
 const axios = require('axios')
 
-// async function getStrapiJWT() {
-// 	try {
-// 		const response = await axios.post('http://localhost:1337/auth/local', {
-// 			// identifier: 'marcus.m@icarcover.com',
-// 			identifier: 'marcusmcb@gmail.com',
-// 			password: 'Charlie5596!!!!',
-// 		})
-// 		return response.data.jwt
-// 	} catch (error) {
-// 		console.error('ERROR: ', error)
-// 	}
-// }
+const uniqueMakes = {}
+const uniqueYears = {}
 
 products.forEach((product) => {
 	if (!uniqueMakes[product.make_ID]) {
@@ -196,15 +183,42 @@ const productCharacteristicsArray = extractProductCharacteristics(products)
 // console.log(productCharacteristicsArray[0])
 
 async function sendMakesToStrapi(makesData) {
-  for (const make of makesData) {
-      await axios.post('http://localhost:1337/makes', make);
-  }
+	// for (const make of makesData) {
+	//   console.log(make)
+	// 	await axios.post('http://localhost:1337/makes', make, {
+	// 		headers: {
+	// 			'Content-Type': 'application/json',
+	// 		},
+	// 	})
+	// }
+	const foo = {
+		make_ID: '5777',
+		make: 'CoolCar',
+	}
+	await axios.post('http://localhost:1337/makes', foo, {
+		headers: {
+			'Content-Type': 'application/json',
+		},
+	})
 }
 
 sendMakesToStrapi(makesData)
-    .then(() => {
-        console.log('Makes data sent to Strapi.');
-    })
-    .catch((error) => {
-        console.error('Error sending data to Strapi:', error);
-    });
+	.then(() => {
+		console.log('Makes data sent to Strapi.')
+	})
+	.catch((error) => {
+		if (error.response) {
+			// The request was made and the server responded with a status code
+			// that falls out of the range of 2xx
+			console.error('Error response:', error.response.data)
+			console.error('Error status:', error.response.status)
+			console.error('Error headers:', error.response.headers)
+		} else if (error.request) {
+			// The request was made but no response was received
+			console.error('No response received:', error.request)
+		} else {
+			// Something happened in setting up the request that triggered an Error
+			console.error('Error in request setup: ', error.message)
+		}
+		console.error('Error config:', error.config)
+	})
