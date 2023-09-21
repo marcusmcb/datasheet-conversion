@@ -2,6 +2,18 @@ const products = require('./json/updated_DB_test_sheet_FULL.json')
 const uniqueMakes = {}
 const uniqueYears = {}
 
+const axios = require('axios');
+
+async function getStrapiJWT() {
+  const response = await axios.post('http://localhost:1337/auth/local', {
+    // identifier: 'marcus.m@icarcover.com', 
+    identifier: 'marcus.m@icarcover.com', 
+    password: 'Charlie5596!!!!'
+  });
+  return response.data.jwt;
+}
+
+
 products.forEach((product) => {
 	if (!uniqueMakes[product.make_ID]) {
 		uniqueMakes[product.make_ID] = product.make
@@ -104,7 +116,7 @@ const extractProducts = (data, modelNameToIdMap) => {
 const { modelsData, modelNameToIdMap } = generateModelsData(products) // destructuring
 const productArray = extractProducts(products, modelNameToIdMap)
 
-const parseProductImages = (productData) =>{
+const parseProductImages = (productData) => {
 	const imageTypes = [
 		{ prefix: 'uc_image', type: 'category' },
 		{ prefix: 'bannerimage', type: 'banner' },
@@ -155,7 +167,7 @@ products.forEach((product) => {
 const extractProductCharacteristics = (products) => {
 	return products.map((product) => {
 		return {
-			characteristic_id: product.FK, 
+			characteristic_id: product.FK,
 			FK: product.FK,
 			weatherproof: product.weatherproof,
 			scratchproof: product.scratchproof,
@@ -165,20 +177,39 @@ const extractProductCharacteristics = (products) => {
 			dust_and_abrasion_protection: product.dust_and_abrasion_protection,
 			mirror: product.mirror,
 			size: product.size,
-			characteristics_code: product.characteristics_code, 
+			characteristics_code: product.characteristics_code,
 		}
 	})
 }
 
 const productCharacteristicsArray = extractProductCharacteristics(products)
 
+// console.log(makesData[0])
+// console.log(modelsData[0])
+// console.log(generateYearData(products)[0])
+// console.log(extractUniqueSubmodels(products)[0])
+// console.log(productArray[0])
+// console.log(allProductImages[0])
+// console.log(productCharacteristicsArray[0])
 
-console.log(makesData[0])
-console.log(modelsData[0])
-console.log(generateYearData(products)[0])
-console.log(extractUniqueSubmodels(products)[0])
-console.log(productArray[0])
-console.log(allProductImages[0])
-console.log(productCharacteristicsArray[0])
+async function sendMakesToStrapi(makesData) {
+  const jwtToken = await getStrapiJWT();
+
+  const headers = {
+    'Authorization': `Bearer ${jwtToken}`
+  };
+
+  for (const make of makesData) {
+    await axios.post('http://localhost:1337/makes', make, {
+      headers: headers
+    });
+  }
+}
+
+sendMakesToStrapi(makesData).then(() => {
+  console.log('Makes data sent to Strapi.');
+}).catch(error => {
+  console.error('Error sending data to Strapi:', error);
+});
 
 
