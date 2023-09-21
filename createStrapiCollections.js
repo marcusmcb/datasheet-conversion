@@ -2,17 +2,20 @@ const products = require('./json/updated_DB_test_sheet_FULL.json')
 const uniqueMakes = {}
 const uniqueYears = {}
 
-const axios = require('axios');
+const axios = require('axios')
 
-async function getStrapiJWT() {
-  const response = await axios.post('http://localhost:1337/auth/local', {
-    // identifier: 'marcus.m@icarcover.com', 
-    identifier: 'marcus.m@icarcover.com', 
-    password: 'Charlie5596!!!!'
-  });
-  return response.data.jwt;
-}
-
+// async function getStrapiJWT() {
+// 	try {
+// 		const response = await axios.post('http://localhost:1337/auth/local', {
+// 			// identifier: 'marcus.m@icarcover.com',
+// 			identifier: 'marcusmcb@gmail.com',
+// 			password: 'Charlie5596!!!!',
+// 		})
+// 		return response.data.jwt
+// 	} catch (error) {
+// 		console.error('ERROR: ', error)
+// 	}
+// }
 
 products.forEach((product) => {
 	if (!uniqueMakes[product.make_ID]) {
@@ -193,23 +196,15 @@ const productCharacteristicsArray = extractProductCharacteristics(products)
 // console.log(productCharacteristicsArray[0])
 
 async function sendMakesToStrapi(makesData) {
-  const jwtToken = await getStrapiJWT();
-
-  const headers = {
-    'Authorization': `Bearer ${jwtToken}`
-  };
-
   for (const make of makesData) {
-    await axios.post('http://localhost:1337/makes', make, {
-      headers: headers
-    });
+      await axios.post('http://localhost:1337/makes', make);
   }
 }
 
-sendMakesToStrapi(makesData).then(() => {
-  console.log('Makes data sent to Strapi.');
-}).catch(error => {
-  console.error('Error sending data to Strapi:', error);
-});
-
-
+sendMakesToStrapi(makesData)
+    .then(() => {
+        console.log('Makes data sent to Strapi.');
+    })
+    .catch((error) => {
+        console.error('Error sending data to Strapi:', error);
+    });
