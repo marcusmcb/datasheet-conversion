@@ -175,72 +175,127 @@ const extractProductCharacteristics = (products) => {
 const productCharacteristicsArray = extractProductCharacteristics(products)
 
 console.log(makesData[0])
-console.log(modelsData[0])
-console.log(generateYearData(products)[0])
-console.log(extractUniqueSubmodels(products)[0])
-console.log(productArray[0])
-console.log(allProductImages[0])
-console.log(productCharacteristicsArray[0])
 
-// async function sendMakesToStrapi(makesData) {
-//   //   // for (const make of makesData) {
-//   //   //   console.log(make)
-//   //   // 	await axios.post('http://localhost:1337/makes', make, {
-//   //   // 		headers: {
-//   //   // 			'Content-Type': 'application/json',
-//   //   // 		},
-//   //   // 	})
-//   //   // }
-//   const foo =
-//   {
+// const sendMakesDataToStrapi = async (makesData) => {
+//   // for (const make of makesData) {
+//   //   // console.log("MAKE: ", make.make_ID, make.make)
+//   //   const data = {
+//   //     make_ID: make.make_ID,
+//   //     make: make.make
+//   //   }
+//   //   // await axios.post('http://localhost:1337/api/makes', data, {
+//   //   //   headers: {
+//   //   //     'Content-Type': 'application/json'
+//   //   //   }
+//   //   // })
+//   //   console.log(data)
+//   // }
+
+//   const request = {
 //     data: {
-//       foo_id: '2384',
-//       foo_name: 'Floofy Pillows',
+//       make_ID: makesData[0].make_ID,
+//       make: makesData[0].make
 //     }
-
 //   }
 
-//   await axios.post('http://127.0.0.1:1337/api/foos', foo, {
+//   await axios.post("http://localhost:1337/api/makes", request, {
 //     headers: {
-//       'Content-Type': 'application/json',
-//     },
+//       'Content-Type': 'application/json'
+//     }
 //   })
-//   // await axios.get('http://localhost:1337/foos').then(data => console.log("BUELLER:", data))
 // }
 
-// sendMakesToStrapi(makesData)
-//   .then(() => {
-//     console.log('Makes data sent to Strapi.')
-//   })
-//   .catch((error) => {
-//     if (error.response) {
-//       // The request was made and the server responded with a status code
-//       // that falls out of the range of 2xx
-//       console.error('Error response:', error.response.data)
-//       console.error('Error status:', error.response.status)
-//       console.error('Error headers:', error.response.headers)
-//     } else if (error.request) {
-//       // The request was made but no response was received
-//       console.error('No response received:', error.request)
-//     } else {
-//       // Something happened in setting up the request that triggered an Error
-//       console.error('Error in request setup: ', error.message)
-//     }
-//     console.error('Error config:', error.config)
-//   })
+// console.log(modelsData[0])
+// console.log(generateYearData(products)[0])
+// console.log(extractUniqueSubmodels(products)[0])
+// console.log(productArray[0])
+// console.log(allProductImages[0])
+// console.log(productCharacteristicsArray[0])
 
-const getFoosFromStrapi = async () => {
-  const url = 'http://127.0.0.1:1337/api/foos';
-  try {
-    const response = await axios.get(url, {
+async function sendMakesToStrapi(makesData) {
+  // makesData.forEach((make) => {
+  //   const product = {
+  //     data: {
+  //       make_ID: make.make_ID,
+  //       make: make.make
+  //     }
+  //   }
+  //   console.log(product)
+  // })
+  
+  for (const make of makesData) {
+    const product = {
+      data: {
+        make_ID: make.make_ID,
+        make: make.make
+      }
+    }
+    console.log(product)
+    await axios.post('http://localhost:1337/api/makes', product, {
       headers: {
         'Content-Type': 'application/json'
       }
-    });
-    console.log(response.data.data); // Log the returned data
-  } catch (error) {
-    console.error('Error fetching data:', error);
+    }).then((response) => {
+      console.log("RESPONSE: ", response.data)
+    }).catch((error) => {
+      console.log("ERROR: ", error)
+    })
   }
+  // const foo =
+  // {
+  //   data: {
+  //     foo_id: '1743',
+  //     foo_name: 'Stamp Richards',
+  //   }
+  // }
+
+  // const req = {
+  //   data: {
+  //     make_ID: makesData[2].make_ID,
+  //     make: makesData[2].make
+  //   }
+  // }
+
+  // await axios.post('http://127.0.0.1:1337/api/makes', req, {
+  //   headers: {
+  //     'Content-Type': 'application/json',
+  //   },
+  // })  
 }
 
-getFoosFromStrapi();
+sendMakesToStrapi(makesData)
+  .then(() => {
+    console.log('Makes data sent to Strapi.')
+  })
+  .catch((error) => {
+    if (error.response) {
+      // The request was made and the server responded with a status code
+      // that falls out of the range of 2xx
+      console.error('Error response:', error.response.data)
+      console.error('Error status:', error.response.status)
+      console.error('Error headers:', error.response.headers)
+    } else if (error.request) {
+      // The request was made but no response was received
+      console.error('No response received:', error.request)
+    } else {
+      // Something happened in setting up the request that triggered an Error
+      console.error('Error in request setup: ', error.message)
+    }
+    console.error('Error config:', error.config)
+  })
+
+// const getFoosFromStrapi = async () => {
+//   const url = 'http://127.0.0.1:1337/api/foos';
+//   try {
+//     const response = await axios.get(url, {
+//       headers: {
+//         'Content-Type': 'application/json'
+//       }
+//     });
+//     console.log(response.data.data); // Log the returned data
+//   } catch (error) {
+//     console.error('Error fetching data:', error);
+//   }
+// }
+
+// getFoosFromStrapi();
