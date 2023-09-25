@@ -174,28 +174,28 @@ const extractProductCharacteristics = (products) => {
 
 const productCharacteristicsArray = extractProductCharacteristics(products)
 
-// console.log(makesData[0])
-// console.log(modelsData[0])
-// console.log(generateYearData(products)[0])
-// console.log(extractUniqueSubmodels(products)[0])
-// console.log(productArray[0])
-// console.log(allProductImages[0])
-// console.log(productCharacteristicsArray[0])
+console.log(makesData[0])
+console.log(modelsData[0])
+console.log(generateYearData(products)[0])
+console.log(extractUniqueSubmodels(products)[0])
+console.log(productArray[0])
+console.log(allProductImages[0])
+console.log(productCharacteristicsArray[0])
 
 // async function sendMakesToStrapi(makesData) {
-//   // for (const make of makesData) {
-//   //   console.log(make)
-//   // 	await axios.post('http://localhost:1337/makes', make, {
-//   // 		headers: {
-//   // 			'Content-Type': 'application/json',
-//   // 		},
-//   // 	})
-//   // }
+//   //   // for (const make of makesData) {
+//   //   //   console.log(make)
+//   //   // 	await axios.post('http://localhost:1337/makes', make, {
+//   //   // 		headers: {
+//   //   // 			'Content-Type': 'application/json',
+//   //   // 		},
+//   //   // 	})
+//   //   // }
 //   const foo =
 //   {
 //     data: {
-//       foo_id: '7175',
-//       foo_name: 'Suzanne Sommers',
+//       foo_id: '2384',
+//       foo_name: 'Floofy Pillows',
 //     }
 
 //   }
