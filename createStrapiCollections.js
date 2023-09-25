@@ -237,7 +237,7 @@ const getFoosFromStrapi = async () => {
         'Content-Type': 'application/json'
       }
     });
-    console.log(response.data.data[0]); // Log the returned data
+    console.log(response.data.data); // Log the returned data
   } catch (error) {
     console.error('Error fetching data:', error);
   }
