@@ -1,4 +1,4 @@
-const products = require('./json/updated_DB_test_sheet_FULL.json')
+const products = require('./json/test_data_sheet_cleaned.json')
 const axios = require('axios')
 
 const uniqueMakes = {}
@@ -181,6 +181,9 @@ const productCharacteristicsArray = extractProductCharacteristics(products)
 // console.log(productArray[0])
 // console.log(allProductImages[0])
 // console.log(productCharacteristicsArray[0])
+
+console.log("-------------")
+console.log(products[2])
 
 // const sleep = (ms) => {
 //   return new Promise(resolve => setTimeout(resolve, ms))
