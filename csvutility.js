@@ -13,4 +13,5 @@ const csvToJson = (filePath, outputFilePath) => {
 	})
 }
 
-csvToJson('./data/product_csv_files/final_website_db_20231004_ALL_PRODUCTS.csv', './json/final_product_data.json')
+csvToJson('./data/master_product_sheet_111623.csv', './master_product_sheet_111623.json')
+// csvToJson('./data/default_image_update/default_model_image_set_TRUCK.csv', './json/default_model_image_set_TRUCK.json')

@@ -1,0 +1,453 @@
+[
+  {
+    "id": "1",
+    "type": "Truck Cover",
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Cadillac Escalade EXT"
+  },
+  {
+    "id": "2",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Avalanche",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Avalanche"
+  },
+  {
+    "id": "3",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Colorado",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Colorado"
+  },
+  {
+    "id": "4",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Silverado 1500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Silverado 1500"
+  },
+  {
+    "id": "5",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Silverado 1500HD",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Silverado 1500HD"
+  },
+  {
+    "id": "6",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Silverado 2500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Silverado 2500"
+  },
+  {
+    "id": "7",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Silverado 2500HD",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Silverado 2500HD"
+  },
+  {
+    "id": "8",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Silverado 3500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Silverado 3500"
+  },
+  {
+    "id": "9",
+    "type": "Truck Cover",
+    "make": "Chevy",
+    "model": "Silverado 3500HD",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Chevy Silverado 3500HD"
+  },
+  {
+    "id": "10",
+    "type": "Truck Cover",
+    "make": "Dodge",
+    "model": "Dakota",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Dodge Dakota"
+  },
+  {
+    "id": "11",
+    "type": "Truck Cover",
+    "make": "Dodge",
+    "model": "Ram",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Dodge Ram"
+  },
+  {
+    "id": "12",
+    "type": "Truck Cover",
+    "make": "Dodge",
+    "model": "Ram 1500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Dodge Ram 1500"
+  },
+  {
+    "id": "13",
+    "type": "Truck Cover",
+    "make": "Dodge",
+    "model": "Ram 2500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Dodge Ram 2500"
+  },
+  {
+    "id": "14",
+    "type": "Truck Cover",
+    "make": "Dodge",
+    "model": "Ram 3500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Dodge Ram 3500"
+  },
+  {
+    "id": "15",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "Explorer Sport Trac",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford Explorer Sport Trac"
+  },
+  {
+    "id": "16",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-100",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-100"
+  },
+  {
+    "id": "17",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-150",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-150"
+  },
+  {
+    "id": "18",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-150 Lightning",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-150 Lightning"
+  },
+  {
+    "id": "19",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-150 Raptor",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-150 Raptor"
+  },
+  {
+    "id": "20",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-150 SVT Raptor",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-150 SVT Raptor"
+  },
+  {
+    "id": "21",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-250",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-250"
+  },
+  {
+    "id": "22",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-250 Super Duty",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-250 Super Duty"
+  },
+  {
+    "id": "23",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-350",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-350"
+  },
+  {
+    "id": "24",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-350 Super Duty",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-350 Super Duty"
+  },
+  {
+    "id": "25",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F-450 Super Duty",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F-450 Super Duty"
+  },
+  {
+    "id": "26",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F1",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F1"
+  },
+  {
+    "id": "27",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F2",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F2"
+  },
+  {
+    "id": "28",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "F3",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford F3"
+  },
+  {
+    "id": "29",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "Maverick",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford Maverick"
+  },
+  {
+    "id": "30",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "Ranger",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford Ranger"
+  },
+  {
+    "id": "31",
+    "type": "Truck Cover",
+    "make": "Ford",
+    "model": "Ranger Raptor",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Ford Ranger Raptor"
+  },
+  {
+    "id": "32",
+    "type": "Truck Cover",
+    "make": "GMC",
+    "model": "Canyon",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "GMC Canyon"
+  },
+  {
+    "id": "33",
+    "type": "Truck Cover",
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "GMC Sierra 1500"
+  },
+  {
+    "id": "34",
+    "type": "Truck Cover",
+    "make": "GMC",
+    "model": "Sierra 1500HD",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "GMC Sierra 1500HD"
+  },
+  {
+    "id": "35",
+    "type": "Truck Cover",
+    "make": "GMC",
+    "model": "Sierra 2500HD",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "GMC Sierra 2500HD"
+  },
+  {
+    "id": "36",
+    "type": "Truck Cover",
+    "make": "GMC",
+    "model": "Sierra 3500HD",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "GMC Sierra 3500HD"
+  },
+  {
+    "id": "37",
+    "type": "Truck Cover",
+    "make": "GWM",
+    "model": "Cannon L 4x4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "GWM Cannon L 4x4"
+  },
+  {
+    "id": "38",
+    "type": "Truck Cover",
+    "make": "GWM",
+    "model": "Ute Cannon-X 4x4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "GWM Ute Cannon-X 4x4"
+  },
+  {
+    "id": "39",
+    "type": "Truck Cover",
+    "make": "Holden",
+    "model": "Colorado SportsCat",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Holden Colorado SportsCat"
+  },
+  {
+    "id": "40",
+    "type": "Truck Cover",
+    "make": "Honda",
+    "model": "Ridgeline",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Honda Ridgeline"
+  },
+  {
+    "id": "41",
+    "type": "Truck Cover",
+    "make": "Hyundai",
+    "model": "Santa Cruz",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Hyundai Santa Cruz"
+  },
+  {
+    "id": "42",
+    "type": "Truck Cover",
+    "make": "Jeep",
+    "model": "Gladiator",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Jeep Gladiator"
+  },
+  {
+    "id": "43",
+    "type": "Truck Cover",
+    "make": "LDV",
+    "model": "T60",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "LDV T60"
+  },
+  {
+    "id": "44",
+    "type": "Truck Cover",
+    "make": "Nissan",
+    "model": "Frontier",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Nissan Frontier"
+  },
+  {
+    "id": "45",
+    "type": "Truck Cover",
+    "make": "Nissan",
+    "model": "Titan",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Nissan Titan"
+  },
+  {
+    "id": "46",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "1500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 1500"
+  },
+  {
+    "id": "47",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "2500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 2500"
+  },
+  {
+    "id": "48",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "3500",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 3500"
+  },
+  {
+    "id": "49",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "1500 Classic",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 1500 Classic"
+  },
+  {
+    "id": "50",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "1500 TRX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 1500 TRX"
+  },
+  {
+    "id": "51",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "1501 Classic",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 1501 Classic"
+  },
+  {
+    "id": "52",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "1502 Classic",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 1502 Classic"
+  },
+  {
+    "id": "53",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "1503 Classic",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 1503 Classic"
+  },
+  {
+    "id": "54",
+    "type": "Truck Cover",
+    "make": "RAM",
+    "model": "1504 Classic",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "RAM 1504 Classic"
+  },
+  {
+    "id": "55",
+    "type": "Truck Cover",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Toyota Tacoma"
+  },
+  {
+    "id": "56",
+    "type": "Truck Cover",
+    "make": "Toyota",
+    "model": "Tundra",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/01-str-bkgr-truck.webp,http://www.coverland.com/pub/media/category-images-new/truck-premium-gr-1to-nmr.png,http://www.coverland.com/pub/media/category-images-new/truck-standard-pro-gr-1to-nmr.webp,http://www.coverland.com/pub/media/category-images-new/truck-standard-gr-1to-nmr.webp",
+    "aa": "Toyota Tundra"
+  },
+  {
+    "id": ""
+  }
+]

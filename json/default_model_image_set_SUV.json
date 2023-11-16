@@ -1,0 +1,3098 @@
+[
+  {
+    "id": "1",
+    "type": "SUV Cover",
+    "foo": "Acura MDX",
+    "make": "Acura",
+    "model": "MDX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "2",
+    "type": "SUV Cover",
+    "foo": "Acura RDX",
+    "make": "Acura",
+    "model": "RDX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "3",
+    "type": "SUV Cover",
+    "foo": "Acura SLX",
+    "make": "Acura",
+    "model": "SLX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "4",
+    "type": "SUV Cover",
+    "foo": "Alfa Romeo Stelvio",
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "5",
+    "type": "SUV Cover",
+    "foo": "AM General Hummer",
+    "make": "AM General",
+    "model": "Hummer",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "6",
+    "type": "SUV Cover",
+    "foo": "Aston Martin DBX",
+    "make": "Aston Martin",
+    "model": "DBX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "7",
+    "type": "SUV Cover",
+    "foo": "Audi E-Tron",
+    "make": "Audi",
+    "model": "E-Tron",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "8",
+    "type": "SUV Cover",
+    "foo": "Audi Q2",
+    "make": "Audi",
+    "model": "Q2",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "9",
+    "type": "SUV Cover",
+    "foo": "Audi Q3",
+    "make": "Audi",
+    "model": "Q3",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "10",
+    "type": "SUV Cover",
+    "foo": "Audi Q5",
+    "make": "Audi",
+    "model": "Q5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "11",
+    "type": "SUV Cover",
+    "foo": "Audi Q7",
+    "make": "Audi",
+    "model": "Q7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "12",
+    "type": "SUV Cover",
+    "foo": "Audi Q8",
+    "make": "Audi",
+    "model": "Q8",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "13",
+    "type": "SUV Cover",
+    "foo": "Audi RS Q3",
+    "make": "Audi",
+    "model": "RS Q3",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "14",
+    "type": "SUV Cover",
+    "foo": "Audi RS Q8",
+    "make": "Audi",
+    "model": "RS Q8",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "15",
+    "type": "SUV Cover",
+    "foo": "Audi SQ5",
+    "make": "Audi",
+    "model": "SQ5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "16",
+    "type": "SUV Cover",
+    "foo": "Bentley Bentayga",
+    "make": "Bentley",
+    "model": "Bentayga",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "17",
+    "type": "SUV Cover",
+    "foo": "BMW Alpina XB7",
+    "make": "BMW",
+    "model": "Alpina XB7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "18",
+    "type": "SUV Cover",
+    "foo": "BMW X1",
+    "make": "BMW",
+    "model": "X1",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "19",
+    "type": "SUV Cover",
+    "foo": "BMW X2",
+    "make": "BMW",
+    "model": "X2",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "20",
+    "type": "SUV Cover",
+    "foo": "BMW X3",
+    "make": "BMW",
+    "model": "X3",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "21",
+    "type": "SUV Cover",
+    "foo": "BMW X4",
+    "make": "BMW",
+    "model": "X4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "22",
+    "type": "SUV Cover",
+    "foo": "BMW X5",
+    "make": "BMW",
+    "model": "X5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "23",
+    "type": "SUV Cover",
+    "foo": "BMW X5 M",
+    "make": "BMW",
+    "model": "X5 M",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "24",
+    "type": "SUV Cover",
+    "foo": "BMW X6",
+    "make": "BMW",
+    "model": "X6",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "25",
+    "type": "SUV Cover",
+    "foo": "BMW X6 M",
+    "make": "BMW",
+    "model": "X6 M",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "26",
+    "type": "SUV Cover",
+    "foo": "BMW X7",
+    "make": "BMW",
+    "model": "X7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "27",
+    "type": "SUV Cover",
+    "foo": "Buick Enclave",
+    "make": "Buick",
+    "model": "Enclave",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "28",
+    "type": "SUV Cover",
+    "foo": "Buick Encore",
+    "make": "Buick",
+    "model": "Encore",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "29",
+    "type": "SUV Cover",
+    "foo": "Buick Envision",
+    "make": "Buick",
+    "model": "Envision",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "30",
+    "type": "SUV Cover",
+    "foo": "Buick Rainier",
+    "make": "Buick",
+    "model": "Rainier",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "31",
+    "type": "SUV Cover",
+    "foo": "Buick Rendezvous",
+    "make": "Buick",
+    "model": "Rendezvous",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "32",
+    "type": "SUV Cover",
+    "foo": "Cadillac Escalade",
+    "make": "Cadillac",
+    "model": "Escalade",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "33",
+    "type": "SUV Cover",
+    "foo": "Cadillac Escalade ESV",
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "34",
+    "type": "SUV Cover",
+    "foo": "Cadillac SRX",
+    "make": "Cadillac",
+    "model": "SRX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "35",
+    "type": "SUV Cover",
+    "foo": "Cadillac XT4",
+    "make": "Cadillac",
+    "model": "XT4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "36",
+    "type": "SUV Cover",
+    "foo": "Cadillac XT5",
+    "make": "Cadillac",
+    "model": "XT5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "37",
+    "type": "SUV Cover",
+    "foo": "Cadillac XT6",
+    "make": "Cadillac",
+    "model": "XT6",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "38",
+    "type": "SUV Cover",
+    "foo": "Chevy Blazer K5",
+    "make": "Chevy",
+    "model": "Blazer K5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "39",
+    "type": "SUV Cover",
+    "foo": "Chevy Blazer S10",
+    "make": "Chevy",
+    "model": "Blazer S10",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "40",
+    "type": "SUV Cover",
+    "foo": "Chevy Blazer",
+    "make": "Chevy",
+    "model": "Blazer",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "41",
+    "type": "SUV Cover",
+    "foo": "Chevy Captiva Sport",
+    "make": "Chevy",
+    "model": "Captiva Sport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "42",
+    "type": "SUV Cover",
+    "foo": "Chevy Equinox",
+    "make": "Chevy",
+    "model": "Equinox",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "43",
+    "type": "SUV Cover",
+    "foo": "Chevy Orlando",
+    "make": "Chevy",
+    "model": "Orlando",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "44",
+    "type": "SUV Cover",
+    "foo": "Chevy Sonora",
+    "make": "Chevy",
+    "model": "Sonora",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "45",
+    "type": "SUV Cover",
+    "foo": "Chevy Suburban",
+    "make": "Chevy",
+    "model": "Suburban",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "46",
+    "type": "SUV Cover",
+    "foo": "Chevy Tahoe",
+    "make": "Chevy",
+    "model": "Tahoe",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "47",
+    "type": "SUV Cover",
+    "foo": "Chevy Tracker",
+    "make": "Chevy",
+    "model": "Tracker",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "48",
+    "type": "SUV Cover",
+    "foo": "Chevy Trailblazer",
+    "make": "Chevy",
+    "model": "Trailblazer",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "49",
+    "type": "SUV Cover",
+    "foo": "Chevy Trailblazer EXT",
+    "make": "Chevy",
+    "model": "Trailblazer EXT",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "50",
+    "type": "SUV Cover",
+    "foo": "Chevy Traverse",
+    "make": "Chevy",
+    "model": "Traverse",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "51",
+    "type": "SUV Cover",
+    "foo": "Chevy Trax",
+    "make": "Chevy",
+    "model": "Trax",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "52",
+    "type": "SUV Cover",
+    "foo": "Chrysler Aspen",
+    "make": "Chrysler",
+    "model": "Aspen",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "53",
+    "type": "SUV Cover",
+    "foo": "Chrysler Pacifica",
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "54",
+    "type": "SUV Cover",
+    "foo": "Dodge Durango",
+    "make": "Dodge",
+    "model": "Durango",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "55",
+    "type": "SUV Cover",
+    "foo": "Dodge Durango SXT, GT, R/T, Citadel, SRT",
+    "make": "Dodge",
+    "model": "Durango SXT, GT, R/T, Citadel, SRT",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "56",
+    "type": "SUV Cover",
+    "foo": "Dodge Journey",
+    "make": "Dodge",
+    "model": "Journey",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "57",
+    "type": "SUV Cover",
+    "foo": "Dodge Nitro",
+    "make": "Dodge",
+    "model": "Nitro",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "58",
+    "type": "SUV Cover",
+    "foo": "Dodge Raider",
+    "make": "Dodge",
+    "model": "Raider",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "59",
+    "type": "SUV Cover",
+    "foo": "Dodge Ramcharger",
+    "make": "Dodge",
+    "model": "Ramcharger",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "60",
+    "type": "SUV Cover",
+    "foo": "Fiat 500L",
+    "make": "Fiat",
+    "model": "500L",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "61",
+    "type": "SUV Cover",
+    "foo": "Fiat 500X",
+    "make": "Fiat",
+    "model": "500X",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "62",
+    "type": "SUV Cover",
+    "foo": "Ford Bronco",
+    "make": "Ford",
+    "model": "Bronco",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "63",
+    "type": "SUV Cover",
+    "foo": "Ford EcoSport",
+    "make": "Ford",
+    "model": "EcoSport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "64",
+    "type": "SUV Cover",
+    "foo": "Ford Edge",
+    "make": "Ford",
+    "model": "Edge",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "65",
+    "type": "SUV Cover",
+    "foo": "Ford Escape",
+    "make": "Ford",
+    "model": "Escape",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "66",
+    "type": "SUV Cover",
+    "foo": "Ford Excursion",
+    "make": "Ford",
+    "model": "Excursion",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "67",
+    "type": "SUV Cover",
+    "foo": "Ford Expedition",
+    "make": "Ford",
+    "model": "Expedition",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "68",
+    "type": "SUV Cover",
+    "foo": "Ford Explorer",
+    "make": "Ford",
+    "model": "Explorer",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "69",
+    "type": "SUV Cover",
+    "foo": "Ford Flex",
+    "make": "Ford",
+    "model": "Flex",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "70",
+    "type": "SUV Cover",
+    "foo": "Ford Freestyle",
+    "make": "Ford",
+    "model": "Freestyle",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "71",
+    "type": "SUV Cover",
+    "foo": "Ford Model A Woody Station Wagon",
+    "make": "Ford",
+    "model": "Model A Woody Station Wagon",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "72",
+    "type": "SUV Cover",
+    "foo": "Ford Mustang Mach-E",
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "73",
+    "type": "SUV Cover",
+    "foo": "Genesis GV70",
+    "make": "Genesis",
+    "model": "GV70",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "74",
+    "type": "SUV Cover",
+    "foo": "Genesis GV80",
+    "make": "Genesis",
+    "model": "GV80",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "75",
+    "type": "SUV Cover",
+    "foo": "Geo Tracker",
+    "make": "Geo",
+    "model": "Tracker",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "76",
+    "type": "SUV Cover",
+    "foo": "GMC Acadia",
+    "make": "GMC",
+    "model": "Acadia",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "77",
+    "type": "SUV Cover",
+    "foo": "GMC Acadia Limited",
+    "make": "GMC",
+    "model": "Acadia Limited",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "78",
+    "type": "SUV Cover",
+    "foo": "GMC Envoy",
+    "make": "GMC",
+    "model": "Envoy",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "79",
+    "type": "SUV Cover",
+    "foo": "GMC Envoy XL",
+    "make": "GMC",
+    "model": "Envoy XL",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "80",
+    "type": "SUV Cover",
+    "foo": "GMC Jimmy",
+    "make": "GMC",
+    "model": "Jimmy",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "81",
+    "type": "SUV Cover",
+    "foo": "GMC S15 Jimmy",
+    "make": "GMC",
+    "model": "S15 Jimmy",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "82",
+    "type": "SUV Cover",
+    "foo": "GMC Suburban",
+    "make": "GMC",
+    "model": "Suburban",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "83",
+    "type": "SUV Cover",
+    "foo": "GMC Terrain",
+    "make": "GMC",
+    "model": "Terrain",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "84",
+    "type": "SUV Cover",
+    "foo": "GMC Typhoon",
+    "make": "GMC",
+    "model": "Typhoon",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "85",
+    "type": "SUV Cover",
+    "foo": "GMC Yukon",
+    "make": "GMC",
+    "model": "Yukon",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "86",
+    "type": "SUV Cover",
+    "foo": "GMC Yukon XL",
+    "make": "GMC",
+    "model": "Yukon XL",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "87",
+    "type": "SUV Cover",
+    "foo": "Honda BR-V",
+    "make": "Honda",
+    "model": "BR-V",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "88",
+    "type": "SUV Cover",
+    "foo": "Honda CR-V",
+    "make": "Honda",
+    "model": "CR-V",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "89",
+    "type": "SUV Cover",
+    "foo": "Honda Element",
+    "make": "Honda",
+    "model": "Element",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "90",
+    "type": "SUV Cover",
+    "foo": "Honda HR-V",
+    "make": "Honda",
+    "model": "HR-V",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "91",
+    "type": "SUV Cover",
+    "foo": "Honda Passport",
+    "make": "Honda",
+    "model": "Passport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "92",
+    "type": "SUV Cover",
+    "foo": "Honda Pilot",
+    "make": "Honda",
+    "model": "Pilot",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "93",
+    "type": "SUV Cover",
+    "foo": "Hummer H1",
+    "make": "Hummer",
+    "model": "H1",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "94",
+    "type": "SUV Cover",
+    "foo": "Hummer H2",
+    "make": "Hummer",
+    "model": "H2",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "95",
+    "type": "SUV Cover",
+    "foo": "Hummer H3",
+    "make": "Hummer",
+    "model": "H3",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "96",
+    "type": "SUV Cover",
+    "foo": "Hyundai Creta",
+    "make": "Hyundai",
+    "model": "Creta",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "97",
+    "type": "SUV Cover",
+    "foo": "Hyundai Kona",
+    "make": "Hyundai",
+    "model": "Kona",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "98",
+    "type": "SUV Cover",
+    "foo": "Hyundai Nexo",
+    "make": "Hyundai",
+    "model": "Nexo",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "99",
+    "type": "SUV Cover",
+    "foo": "Hyundai Palisade",
+    "make": "Hyundai",
+    "model": "Palisade",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "100",
+    "type": "SUV Cover",
+    "foo": "Hyundai Santa Fe",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "101",
+    "type": "SUV Cover",
+    "foo": "Hyundai Santa Fe XL",
+    "make": "Hyundai",
+    "model": "Santa Fe XL",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "102",
+    "type": "SUV Cover",
+    "foo": "Hyundai Tucson",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "103",
+    "type": "SUV Cover",
+    "foo": "Hyundai Venue",
+    "make": "Hyundai",
+    "model": "Venue",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "104",
+    "type": "SUV Cover",
+    "foo": "Hyundai Veracruz",
+    "make": "Hyundai",
+    "model": "Veracruz",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "105",
+    "type": "SUV Cover",
+    "foo": "Infiniti EX35",
+    "make": "Infiniti",
+    "model": "EX35",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "106",
+    "type": "SUV Cover",
+    "foo": "Infiniti FX35",
+    "make": "Infiniti",
+    "model": "FX35",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "107",
+    "type": "SUV Cover",
+    "foo": "Infiniti FX45",
+    "make": "Infiniti",
+    "model": "FX45",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "108",
+    "type": "SUV Cover",
+    "foo": "Infiniti FX50",
+    "make": "Infiniti",
+    "model": "FX50",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "109",
+    "type": "SUV Cover",
+    "foo": "Infiniti Q30",
+    "make": "Infiniti",
+    "model": "Q30",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "110",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX30",
+    "make": "Infiniti",
+    "model": "QX30",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "111",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX4",
+    "make": "Infiniti",
+    "model": "QX4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "112",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX50",
+    "make": "Infiniti",
+    "model": "QX50",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "113",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX55",
+    "make": "Infiniti",
+    "model": "QX55",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "114",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX56",
+    "make": "Infiniti",
+    "model": "QX56",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "115",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX60",
+    "make": "Infiniti",
+    "model": "QX60",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "116",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX70",
+    "make": "Infiniti",
+    "model": "QX70",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "117",
+    "type": "SUV Cover",
+    "foo": "Infiniti QX80",
+    "make": "Infiniti",
+    "model": "QX80",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "118",
+    "type": "SUV Cover",
+    "foo": "International Scout II",
+    "make": "International",
+    "model": "Scout II",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "119",
+    "type": "SUV Cover",
+    "foo": "Isuzu Amigo",
+    "make": "Isuzu",
+    "model": "Amigo",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "120",
+    "type": "SUV Cover",
+    "foo": "Isuzu Ascender",
+    "make": "Isuzu",
+    "model": "Ascender",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "121",
+    "type": "SUV Cover",
+    "foo": "Isuzu Axiom",
+    "make": "Isuzu",
+    "model": "Axiom",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "122",
+    "type": "SUV Cover",
+    "foo": "Isuzu Rodeo",
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "123",
+    "type": "SUV Cover",
+    "foo": "Isuzu Trooper II",
+    "make": "Isuzu",
+    "model": "Trooper II",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "124",
+    "type": "SUV Cover",
+    "foo": "Isuzu Trooper",
+    "make": "Isuzu",
+    "model": "Trooper",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "125",
+    "type": "SUV Cover",
+    "foo": "Isuzu Vehicross",
+    "make": "Isuzu",
+    "model": "Vehicross",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "126",
+    "type": "SUV Cover",
+    "foo": "Jaguar E-Pace",
+    "make": "Jaguar",
+    "model": "E-Pace",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "127",
+    "type": "SUV Cover",
+    "foo": "Jaguar F-Pace",
+    "make": "Jaguar",
+    "model": "F-Pace",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "128",
+    "type": "SUV Cover",
+    "foo": "Jaguar I-Pace",
+    "make": "Jaguar",
+    "model": "I-Pace",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "129",
+    "type": "SUV Cover",
+    "foo": "Jeep Cherokee",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "130",
+    "type": "SUV Cover",
+    "foo": "Jeep CJ-5",
+    "make": "Jeep",
+    "model": "CJ-5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "131",
+    "type": "SUV Cover",
+    "foo": "Jeep CJ-6",
+    "make": "Jeep",
+    "model": "CJ-6",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "132",
+    "type": "SUV Cover",
+    "foo": "Jeep CJ-7",
+    "make": "Jeep",
+    "model": "CJ-7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "133",
+    "type": "SUV Cover",
+    "foo": "Jeep Commander",
+    "make": "Jeep",
+    "model": "Commander",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "134",
+    "type": "SUV Cover",
+    "foo": "Jeep Commando",
+    "make": "Jeep",
+    "model": "Commando",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "135",
+    "type": "SUV Cover",
+    "foo": "Jeep Compass",
+    "make": "Jeep",
+    "model": "Compass",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "136",
+    "type": "SUV Cover",
+    "foo": "Jeep DJ5",
+    "make": "Jeep",
+    "model": "DJ5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "137",
+    "type": "SUV Cover",
+    "foo": "Jeep DJ6",
+    "make": "Jeep",
+    "model": "DJ6",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "138",
+    "type": "SUV Cover",
+    "foo": "Jeep F-134",
+    "make": "Jeep",
+    "model": "F-134",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "139",
+    "type": "SUV Cover",
+    "foo": "Jeep Grand Cherokee",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "140",
+    "type": "SUV Cover",
+    "foo": "Jeep Grand Cherokee L",
+    "make": "Jeep",
+    "model": "Grand Cherokee L",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "141",
+    "type": "SUV Cover",
+    "foo": "Jeep Grand Cherokee SRT",
+    "make": "Jeep",
+    "model": "Grand Cherokee SRT",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "142",
+    "type": "SUV Cover",
+    "foo": "Jeep Grand Cherokee SRT-8",
+    "make": "Jeep",
+    "model": "Grand Cherokee SRT-8",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "143",
+    "type": "SUV Cover",
+    "foo": "Jeep Grand Wagoneer",
+    "make": "Jeep",
+    "model": "Grand Wagoneer",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "144",
+    "type": "SUV Cover",
+    "foo": "Jeep J-100",
+    "make": "Jeep",
+    "model": "J-100",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "145",
+    "type": "SUV Cover",
+    "foo": "Jeep Liberty",
+    "make": "Jeep",
+    "model": "Liberty",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "146",
+    "type": "SUV Cover",
+    "foo": "Jeep Patriot",
+    "make": "Jeep",
+    "model": "Patriot",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "147",
+    "type": "SUV Cover",
+    "foo": "Jeep Renegade",
+    "make": "Jeep",
+    "model": "Renegade",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "148",
+    "type": "SUV Cover",
+    "foo": "Jeep Scrambler",
+    "make": "Jeep",
+    "model": "Scrambler",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "149",
+    "type": "SUV Cover",
+    "foo": "Jeep TJ",
+    "make": "Jeep",
+    "model": "TJ",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "150",
+    "type": "SUV Cover",
+    "foo": "Jeep Wagoneer",
+    "make": "Jeep",
+    "model": "Wagoneer",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "151",
+    "type": "SUV Cover",
+    "foo": "Jeep Willys",
+    "make": "Jeep",
+    "model": "Willys",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "152",
+    "type": "SUV Cover",
+    "foo": "Jeep Wrangler",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "153",
+    "type": "SUV Cover",
+    "foo": "Kia Borrego",
+    "make": "Kia",
+    "model": "Borrego",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "154",
+    "type": "SUV Cover",
+    "foo": "Kia Niro",
+    "make": "Kia",
+    "model": "Niro",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "155",
+    "type": "SUV Cover",
+    "foo": "Kia Seltos",
+    "make": "Kia",
+    "model": "Seltos",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "156",
+    "type": "SUV Cover",
+    "foo": "Kia Sorento",
+    "make": "Kia",
+    "model": "Sorento",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "157",
+    "type": "SUV Cover",
+    "foo": "Kia Soul",
+    "make": "Kia",
+    "model": "Soul",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "158",
+    "type": "SUV Cover",
+    "foo": "Kia Soul EV",
+    "make": "Kia",
+    "model": "Soul EV",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "159",
+    "type": "SUV Cover",
+    "foo": "Kia Sportage",
+    "make": "Kia",
+    "model": "Sportage",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "160",
+    "type": "SUV Cover",
+    "foo": "Kia Telluride",
+    "make": "Kia",
+    "model": "Telluride",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "161",
+    "type": "SUV Cover",
+    "foo": "Lada Niva Wagon",
+    "make": "Lada",
+    "model": "Niva Wagon",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "162",
+    "type": "SUV Cover",
+    "foo": "Lada Niva Pick-Up",
+    "make": "Lada",
+    "model": "Niva Pick-Up",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "163",
+    "type": "SUV Cover",
+    "foo": "Lada Niva",
+    "make": "Lada",
+    "model": "Niva",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "164",
+    "type": "SUV Cover",
+    "foo": "Laforza GT",
+    "make": "Laforza",
+    "model": "GT",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "165",
+    "type": "SUV Cover",
+    "foo": "Laforza Laforza",
+    "make": "Laforza",
+    "model": "Laforza",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "166",
+    "type": "SUV Cover",
+    "foo": "Laforza Magnum Edition",
+    "make": "Laforza",
+    "model": "Magnum Edition",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "167",
+    "type": "SUV Cover",
+    "foo": "Laforza Prima",
+    "make": "Laforza",
+    "model": "Prima",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "168",
+    "type": "SUV Cover",
+    "foo": "Lamborghini LM American",
+    "make": "Lamborghini",
+    "model": "LM American",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "169",
+    "type": "SUV Cover",
+    "foo": "Lamborghini LM002",
+    "make": "Lamborghini",
+    "model": "LM002",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "170",
+    "type": "SUV Cover",
+    "foo": "Lamborghini Urus",
+    "make": "Lamborghini",
+    "model": "Urus",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "171",
+    "type": "SUV Cover",
+    "foo": "Land Rover Defender 90",
+    "make": "Land Rover",
+    "model": "Defender 90",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "172",
+    "type": "SUV Cover",
+    "foo": "Land Rover Defender 110",
+    "make": "Land Rover",
+    "model": "Defender 110",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "173",
+    "type": "SUV Cover",
+    "foo": "Land Rover Discovery",
+    "make": "Land Rover",
+    "model": "Discovery",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "174",
+    "type": "SUV Cover",
+    "foo": "Land Rover Discovery LR5",
+    "make": "Land Rover",
+    "model": "Discovery LR5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "175",
+    "type": "SUV Cover",
+    "foo": "Land Rover Discovery Series I",
+    "make": "Land Rover",
+    "model": "Discovery Series I",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "176",
+    "type": "SUV Cover",
+    "foo": "Land Rover Discovery Series II",
+    "make": "Land Rover",
+    "model": "Discovery Series II",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "177",
+    "type": "SUV Cover",
+    "foo": "Land Rover Discovery Sport",
+    "make": "Land Rover",
+    "model": "Discovery Sport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "178",
+    "type": "SUV Cover",
+    "foo": "Land Rover Freelander",
+    "make": "Land Rover",
+    "model": "Freelander",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "179",
+    "type": "SUV Cover",
+    "foo": "Land Rover FREELANDER",
+    "make": "Land Rover",
+    "model": "FREELANDER",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "180",
+    "type": "SUV Cover",
+    "foo": "Land Rover Land Rover",
+    "make": "Land Rover",
+    "model": "Land Rover",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "181",
+    "type": "SUV Cover",
+    "foo": "Land Rover LR2",
+    "make": "Land Rover",
+    "model": "LR2",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "182",
+    "type": "SUV Cover",
+    "foo": "Land Rover LR3",
+    "make": "Land Rover",
+    "model": "LR3",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "183",
+    "type": "SUV Cover",
+    "foo": "Land Rover LR4",
+    "make": "Land Rover",
+    "model": "LR4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "184",
+    "type": "SUV Cover",
+    "foo": "Land Rover Ninety",
+    "make": "Land Rover",
+    "model": "Ninety",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "185",
+    "type": "SUV Cover",
+    "foo": "Land Rover One Ten",
+    "make": "Land Rover",
+    "model": "One Ten",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "186",
+    "type": "SUV Cover",
+    "foo": "Land Rover Range Rover",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "187",
+    "type": "SUV Cover",
+    "foo": "Land Rover Range Rover Evoque",
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "188",
+    "type": "SUV Cover",
+    "foo": "Land Rover Range Rover Sport",
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "189",
+    "type": "SUV Cover",
+    "foo": "Land Rover Range Rover Velar",
+    "make": "Land Rover",
+    "model": "Range Rover Velar",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "190",
+    "type": "SUV Cover",
+    "foo": "Land Rover Series I",
+    "make": "Land Rover",
+    "model": "Series I",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "191",
+    "type": "SUV Cover",
+    "foo": "Land Rover Series II",
+    "make": "Land Rover",
+    "model": "Series II",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "192",
+    "type": "SUV Cover",
+    "foo": "Land Rover Series IIA",
+    "make": "Land Rover",
+    "model": "Series IIA",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "193",
+    "type": "SUV Cover",
+    "foo": "Land Rover Series III",
+    "make": "Land Rover",
+    "model": "Series III",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "194",
+    "type": "SUV Cover",
+    "foo": "Lexus GX 470",
+    "make": "Lexus",
+    "model": "GX 470",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "195",
+    "type": "SUV Cover",
+    "foo": "Lexus GX 460",
+    "make": "Lexus",
+    "model": "GX 460",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "196",
+    "type": "SUV Cover",
+    "foo": "Lexus LX 450",
+    "make": "Lexus",
+    "model": "LX 450",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "197",
+    "type": "SUV Cover",
+    "foo": "Lexus LX 570",
+    "make": "Lexus",
+    "model": "LX 570",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "198",
+    "type": "SUV Cover",
+    "foo": "Lexus NX 200t, 300, 300h",
+    "make": "Lexus",
+    "model": "NX 200t, 300, 300h",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "199",
+    "type": "SUV Cover",
+    "foo": "Lexus RX 300",
+    "make": "Lexus",
+    "model": "RX 300",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "200",
+    "type": "SUV Cover",
+    "foo": "Lexus RX 330, 350, 400h",
+    "make": "Lexus",
+    "model": "RX 330, 350, 400h",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "201",
+    "type": "SUV Cover",
+    "foo": "Lexus RX 350, 450h",
+    "make": "Lexus",
+    "model": "RX 350, 450h",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "202",
+    "type": "SUV Cover",
+    "foo": "Lexus UX 200, 200h",
+    "make": "Lexus",
+    "model": "UX 200, 200h",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "203",
+    "type": "SUV Cover",
+    "foo": "Lincoln Aviator",
+    "make": "Lincoln",
+    "model": "Aviator",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "204",
+    "type": "SUV Cover",
+    "foo": "Lincoln Corsair",
+    "make": "Lincoln",
+    "model": "Corsair",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "205",
+    "type": "SUV Cover",
+    "foo": "Lincoln MKC",
+    "make": "Lincoln",
+    "model": "MKC",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "206",
+    "type": "SUV Cover",
+    "foo": "Lincoln MKT",
+    "make": "Lincoln",
+    "model": "MKT",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "207",
+    "type": "SUV Cover",
+    "foo": "Lincoln MKX",
+    "make": "Lincoln",
+    "model": "MKX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "208",
+    "type": "SUV Cover",
+    "foo": "Lincoln Nautilus",
+    "make": "Lincoln",
+    "model": "Nautilus",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "209",
+    "type": "SUV Cover",
+    "foo": "Lincoln Navigator",
+    "make": "Lincoln",
+    "model": "Navigator",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "210",
+    "type": "SUV Cover",
+    "foo": "Lincoln Navigator L",
+    "make": "Lincoln",
+    "model": "Navigator L",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "211",
+    "type": "SUV Cover",
+    "foo": "Maserati Levante",
+    "make": "Maserati",
+    "model": "Levante",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "212",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-3",
+    "make": "Mazda",
+    "model": "CX-3",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "213",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-30",
+    "make": "Mazda",
+    "model": "CX-30",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "214",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-5",
+    "make": "Mazda",
+    "model": "CX-5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "215",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-6",
+    "make": "Mazda",
+    "model": "CX-6",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "216",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-7",
+    "make": "Mazda",
+    "model": "CX-7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "217",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-9",
+    "make": "Mazda",
+    "model": "CX-9",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "218",
+    "type": "SUV Cover",
+    "foo": "Mazda MAZDA 2",
+    "make": "Mazda",
+    "model": "MAZDA 2",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "219",
+    "type": "SUV Cover",
+    "foo": "Mazda MX-30",
+    "make": "Mazda",
+    "model": "MX-30",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "220",
+    "type": "SUV Cover",
+    "foo": "Mazda Navajo",
+    "make": "Mazda",
+    "model": "Navajo",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "221",
+    "type": "SUV Cover",
+    "foo": "Mazda Tribute",
+    "make": "Mazda",
+    "model": "Tribute",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "222",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz G550 4x4",
+    "make": "Mercedes-Benz",
+    "model": "G550 4x4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "223",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz G-Class",
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "224",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLA-Class",
+    "make": "Mercedes-Benz",
+    "model": "GLA-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "225",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLB-Class",
+    "make": "Mercedes-Benz",
+    "model": "GLB-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "226",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLC-Class",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "227",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLE-Class",
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "228",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLK-Class",
+    "make": "Mercedes-Benz",
+    "model": "GLK-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "229",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GL-Class",
+    "make": "Mercedes-Benz",
+    "model": "GL-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "230",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLS-Class",
+    "make": "Mercedes-Benz",
+    "model": "GLS-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "231",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz Maybach GLS",
+    "make": "Mercedes-Benz",
+    "model": "Maybach GLS",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "232",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz M-Class ML",
+    "make": "Mercedes-Benz",
+    "model": "M-Class ML",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "233",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz R-Class",
+    "make": "Mercedes-Benz",
+    "model": "R-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "234",
+    "type": "SUV Cover",
+    "foo": "Mercury Mariner",
+    "make": "Mercury",
+    "model": "Mariner",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "235",
+    "type": "SUV Cover",
+    "foo": "Mercury Mountaineer",
+    "make": "Mercury",
+    "model": "Mountaineer",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "236",
+    "type": "SUV Cover",
+    "foo": "MG HS",
+    "make": "MG",
+    "model": "HS",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "237",
+    "type": "SUV Cover",
+    "foo": "MG ZS",
+    "make": "MG",
+    "model": "ZS",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "238",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi ASX",
+    "make": "Mitsubishi",
+    "model": "ASX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "239",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi Eclipse Cross",
+    "make": "Mitsubishi",
+    "model": "Eclipse Cross",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "240",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi Endeavor",
+    "make": "Mitsubishi",
+    "model": "Endeavor",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "241",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi Montero",
+    "make": "Mitsubishi",
+    "model": "Montero",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "242",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi Montero Sport",
+    "make": "Mitsubishi",
+    "model": "Montero Sport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "243",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi Outlander",
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "244",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi Pajero",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "245",
+    "type": "SUV Cover",
+    "foo": "Mitsubishi RVR",
+    "make": "Mitsubishi",
+    "model": "RVR",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "246",
+    "type": "SUV Cover",
+    "foo": "Nissan Safari",
+    "make": "Nissan",
+    "model": "Safari",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "247",
+    "type": "SUV Cover",
+    "foo": "Nissan Ariya",
+    "make": "Nissan",
+    "model": "Ariya",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "248",
+    "type": "SUV Cover",
+    "foo": "Nissan Armada",
+    "make": "Nissan",
+    "model": "Armada",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "249",
+    "type": "SUV Cover",
+    "foo": "Nissan Cube",
+    "make": "Nissan",
+    "model": "Cube",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "250",
+    "type": "SUV Cover",
+    "foo": "Nissan Juke",
+    "make": "Nissan",
+    "model": "Juke",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "251",
+    "type": "SUV Cover",
+    "foo": "Nissan JUKE",
+    "make": "Nissan",
+    "model": "JUKE",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "252",
+    "type": "SUV Cover",
+    "foo": "Nissan Kicks",
+    "make": "Nissan",
+    "model": "Kicks",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "253",
+    "type": "SUV Cover",
+    "foo": "Nissan Murano",
+    "make": "Nissan",
+    "model": "Murano",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "254",
+    "type": "SUV Cover",
+    "foo": "Nissan Murano CrossCabriolet",
+    "make": "Nissan",
+    "model": "Murano CrossCabriolet",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "255",
+    "type": "SUV Cover",
+    "foo": "Nissan Pathfinder",
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "256",
+    "type": "SUV Cover",
+    "foo": "Nissan Patrol",
+    "make": "Nissan",
+    "model": "Patrol",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "257",
+    "type": "SUV Cover",
+    "foo": "Nissan Qashqai",
+    "make": "Nissan",
+    "model": "Qashqai",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "258",
+    "type": "SUV Cover",
+    "foo": "Nissan Rogue",
+    "make": "Nissan",
+    "model": "Rogue",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "259",
+    "type": "SUV Cover",
+    "foo": "Nissan Xterra",
+    "make": "Nissan",
+    "model": "Xterra",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "260",
+    "type": "SUV Cover",
+    "foo": "Nissan X-Trail",
+    "make": "Nissan",
+    "model": "X-Trail",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "261",
+    "type": "SUV Cover",
+    "foo": "Oldsmobile Bravada",
+    "make": "Oldsmobile",
+    "model": "Bravada",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "262",
+    "type": "SUV Cover",
+    "foo": "Oldsmobile SERIES 60",
+    "make": "Oldsmobile",
+    "model": "SERIES 60",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "263",
+    "type": "SUV Cover",
+    "foo": "Opel Crossland X",
+    "make": "Opel",
+    "model": "Crossland X",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "264",
+    "type": "SUV Cover",
+    "foo": "Opel Grandland",
+    "make": "Opel",
+    "model": "Grandland",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "265",
+    "type": "SUV Cover",
+    "foo": "Opel Mokka X",
+    "make": "Opel",
+    "model": "Mokka X",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "266",
+    "type": "SUV Cover",
+    "foo": "Peugeot 3008",
+    "make": "Peugeot",
+    "model": "3008",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "267",
+    "type": "SUV Cover",
+    "foo": "Peugeot 2008",
+    "make": "Peugeot",
+    "model": "2008",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "268",
+    "type": "SUV Cover",
+    "foo": "Peugeot 5008",
+    "make": "Peugeot",
+    "model": "5008",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "269",
+    "type": "SUV Cover",
+    "foo": "Plymouth Trailduster",
+    "make": "Plymouth",
+    "model": "Trailduster",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "270",
+    "type": "SUV Cover",
+    "foo": "Pontiac Aztek",
+    "make": "Pontiac",
+    "model": "Aztek",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "271",
+    "type": "SUV Cover",
+    "foo": "Pontiac Torrent",
+    "make": "Pontiac",
+    "model": "Torrent",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "272",
+    "type": "SUV Cover",
+    "foo": "Porsche Cayenne",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "273",
+    "type": "SUV Cover",
+    "foo": "Porsche Macan",
+    "make": "Porsche",
+    "model": "Macan",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "274",
+    "type": "SUV Cover",
+    "foo": "Renault Captur",
+    "make": "Renault",
+    "model": "Captur",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "275",
+    "type": "SUV Cover",
+    "foo": "Renault Duster",
+    "make": "Renault",
+    "model": "Duster",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "276",
+    "type": "SUV Cover",
+    "foo": "Renault Escape",
+    "make": "Renault",
+    "model": "Escape",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "277",
+    "type": "SUV Cover",
+    "foo": "Renault Kadjar",
+    "make": "Renault",
+    "model": "Kadjar",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "278",
+    "type": "SUV Cover",
+    "foo": "Renault Koleos",
+    "make": "Renault",
+    "model": "Koleos",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "279",
+    "type": "SUV Cover",
+    "foo": "Rolls Royce Black Badge",
+    "make": "Rolls Royce",
+    "model": "Black Badge",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "280",
+    "type": "SUV Cover",
+    "foo": "Rolls Royce Cullinan",
+    "make": "Rolls Royce",
+    "model": "Cullinan",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "281",
+    "type": "SUV Cover",
+    "foo": "Saab 9-4X",
+    "make": "Saab",
+    "model": "9-4X",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "282",
+    "type": "SUV Cover",
+    "foo": "Saab 9-7X",
+    "make": "Saab",
+    "model": "9-7X",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "283",
+    "type": "SUV Cover",
+    "foo": "Saturn Outlook",
+    "make": "Saturn",
+    "model": "Outlook",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "284",
+    "type": "SUV Cover",
+    "foo": "Saturn Vue",
+    "make": "Saturn",
+    "model": "Vue",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "285",
+    "type": "SUV Cover",
+    "foo": "Scion XA",
+    "make": "Scion",
+    "model": "XA",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "286",
+    "type": "SUV Cover",
+    "foo": "Scion XB",
+    "make": "Scion",
+    "model": "XB",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "287",
+    "type": "SUV Cover",
+    "foo": "Seat Arona",
+    "make": "Seat",
+    "model": "Arona",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "288",
+    "type": "SUV Cover",
+    "foo": "Seat Ateca",
+    "make": "Seat",
+    "model": "Ateca",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "289",
+    "type": "SUV Cover",
+    "foo": "Seat Tarraco",
+    "make": "Seat",
+    "model": "Tarraco",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "290",
+    "type": "SUV Cover",
+    "foo": "Subaru Ascent",
+    "make": "Subaru",
+    "model": "Ascent",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "291",
+    "type": "SUV Cover",
+    "foo": "Subaru B9 Tribeca",
+    "make": "Subaru",
+    "model": "B9 Tribeca",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "292",
+    "type": "SUV Cover",
+    "foo": "Subaru Crosstrek",
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "293",
+    "type": "SUV Cover",
+    "foo": "Subaru Forester",
+    "make": "Subaru",
+    "model": "Forester",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "294",
+    "type": "SUV Cover",
+    "foo": "Subaru Tribeca",
+    "make": "Subaru",
+    "model": "Tribeca",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "295",
+    "type": "SUV Cover",
+    "foo": "Subaru XV",
+    "make": "Subaru",
+    "model": "XV",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "296",
+    "type": "SUV Cover",
+    "foo": "Suzuki Ertiga",
+    "make": "Suzuki",
+    "model": "Ertiga",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "297",
+    "type": "SUV Cover",
+    "foo": "Suzuki Grand Vitara",
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "298",
+    "type": "SUV Cover",
+    "foo": "Suzuki Samurai",
+    "make": "Suzuki",
+    "model": "Samurai",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "299",
+    "type": "SUV Cover",
+    "foo": "Suzuki S-Cross",
+    "make": "Suzuki",
+    "model": "S-Cross",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "300",
+    "type": "SUV Cover",
+    "foo": "Suzuki Sidekick",
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "301",
+    "type": "SUV Cover",
+    "foo": "Suzuki Vitara",
+    "make": "Suzuki",
+    "model": "Vitara",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "302",
+    "type": "SUV Cover",
+    "foo": "Suzuki X-90",
+    "make": "Suzuki",
+    "model": "X-90",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "303",
+    "type": "SUV Cover",
+    "foo": "Suzuki XL-7",
+    "make": "Suzuki",
+    "model": "XL-7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "304",
+    "type": "SUV Cover",
+    "foo": "Tesla Model X",
+    "make": "Tesla",
+    "model": "Model X",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "305",
+    "type": "SUV Cover",
+    "foo": "Tesla Model Y",
+    "make": "Tesla",
+    "model": "Model Y",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "306",
+    "type": "SUV Cover",
+    "foo": "Toyota 4Runner",
+    "make": "Toyota",
+    "model": "4Runner",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "307",
+    "type": "SUV Cover",
+    "foo": "Toyota C-HR",
+    "make": "Toyota",
+    "model": "C-HR",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "308",
+    "type": "SUV Cover",
+    "foo": "Toyota FJ Cruiser",
+    "make": "Toyota",
+    "model": "FJ Cruiser",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "309",
+    "type": "SUV Cover",
+    "foo": "Toyota FJ40",
+    "make": "Toyota",
+    "model": "FJ40",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "310",
+    "type": "SUV Cover",
+    "foo": "Toyota Highlander",
+    "make": "Toyota",
+    "model": "Highlander",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "311",
+    "type": "SUV Cover",
+    "foo": "Toyota Land Cruiser",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "312",
+    "type": "SUV Cover",
+    "foo": "Toyota RAV4",
+    "make": "Toyota",
+    "model": "RAV4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "313",
+    "type": "SUV Cover",
+    "foo": "Toyota Sequoia",
+    "make": "Toyota",
+    "model": "Sequoia",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "314",
+    "type": "SUV Cover",
+    "foo": "Toyota Venza",
+    "make": "Toyota",
+    "model": "Venza",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "315",
+    "type": "SUV Cover",
+    "foo": "Volkswagen Atlas",
+    "make": "Volkswagen",
+    "model": "Atlas",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "316",
+    "type": "SUV Cover",
+    "foo": "Volkswagen Taos",
+    "make": "Volkswagen",
+    "model": "Taos",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "317",
+    "type": "SUV Cover",
+    "foo": "Volkswagen Teramont",
+    "make": "Volkswagen",
+    "model": "Teramont",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "318",
+    "type": "SUV Cover",
+    "foo": "Volkswagen Tiguan",
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "319",
+    "type": "SUV Cover",
+    "foo": "Volkswagen Touareg",
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "320",
+    "type": "SUV Cover",
+    "foo": "Volvo XC40",
+    "make": "Volvo",
+    "model": "XC40",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "321",
+    "type": "SUV Cover",
+    "foo": "Volvo XC60",
+    "make": "Volvo",
+    "model": "XC60",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "322",
+    "type": "SUV Cover",
+    "foo": "Volvo XC70",
+    "make": "Volvo",
+    "model": "XC70",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "323",
+    "type": "SUV Cover",
+    "foo": "Volvo XC90",
+    "make": "Volvo",
+    "model": "XC90",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "324",
+    "type": "SUV Cover",
+    "foo": "Renault Kwid",
+    "make": "Renault",
+    "model": "Kwid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "325",
+    "type": "SUV Cover",
+    "foo": "International Travelall 1200B",
+    "make": "International",
+    "model": "Travelall 1200B",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "326",
+    "type": "SUV Cover",
+    "foo": "Lexus LX 600",
+    "make": "Lexus",
+    "model": "LX 600",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "327",
+    "type": "SUV Cover",
+    "foo": "Audi Q4 e-tron",
+    "make": "Audi",
+    "model": "Q4 e-tron",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "328",
+    "type": "SUV Cover",
+    "foo": "Audi Q4 Sportback e-tron",
+    "make": "Audi",
+    "model": "Q4 Sportback e-tron",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "329",
+    "type": "SUV Cover",
+    "foo": "Audi Q5 Sportback",
+    "make": "Audi",
+    "model": "Q5 Sportback",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "330",
+    "type": "SUV Cover",
+    "foo": "Audi Q8 e-tron",
+    "make": "Audi",
+    "model": "Q8 e-tron",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "331",
+    "type": "SUV Cover",
+    "foo": "Audi Q8 Sportback e-tron",
+    "make": "Audi",
+    "model": "Q8 Sportback e-tron",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "332",
+    "type": "SUV Cover",
+    "foo": "Audi SQ5 Sportback",
+    "make": "Audi",
+    "model": "SQ5 Sportback",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "333",
+    "type": "SUV Cover",
+    "foo": "Audi SQ7",
+    "make": "Audi",
+    "model": "SQ7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "334",
+    "type": "SUV Cover",
+    "foo": "Audi SQ8",
+    "make": "Audi",
+    "model": "SQ8",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "335",
+    "type": "SUV Cover",
+    "foo": "BMW iX",
+    "make": "BMW",
+    "model": "iX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "336",
+    "type": "SUV Cover",
+    "foo": "BMW X3 M",
+    "make": "BMW",
+    "model": "X3 M",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "337",
+    "type": "SUV Cover",
+    "foo": "BMW X4 M",
+    "make": "BMW",
+    "model": "X4 M",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "338",
+    "type": "SUV Cover",
+    "foo": "BMW X7 Alpina XB7",
+    "make": "BMW",
+    "model": "X7 Alpina XB7",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "339",
+    "type": "SUV Cover",
+    "foo": "BMW XM",
+    "make": "BMW",
+    "model": "XM",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "340",
+    "type": "SUV Cover",
+    "foo": "Buick Encore GX",
+    "make": "Buick",
+    "model": "Encore GX",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "341",
+    "type": "SUV Cover",
+    "foo": "Cadillac LYRIQ",
+    "make": "Cadillac",
+    "model": "LYRIQ",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "342",
+    "type": "SUV Cover",
+    "foo": "Dodge Hornet",
+    "make": "Dodge",
+    "model": "Hornet",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "343",
+    "type": "SUV Cover",
+    "foo": "Ford Bronco Raptor",
+    "make": "Ford",
+    "model": "Bronco Raptor",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "344",
+    "type": "SUV Cover",
+    "foo": "Ford Bronco Sport",
+    "make": "Ford",
+    "model": "Bronco Sport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "345",
+    "type": "SUV Cover",
+    "foo": "Genesis Electrified GV70",
+    "make": "Genesis",
+    "model": "Electrified GV70",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "346",
+    "type": "SUV Cover",
+    "foo": "Genesis GV60",
+    "make": "Genesis",
+    "model": "GV60",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "347",
+    "type": "SUV Cover",
+    "foo": "Honda CR-V Hybrid",
+    "make": "Honda",
+    "model": "CR-V Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "348",
+    "type": "SUV Cover",
+    "foo": "Hyundai IONIQ 5",
+    "make": "Hyundai",
+    "model": "IONIQ 5",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "349",
+    "type": "SUV Cover",
+    "foo": "Hyundai Kona Electric",
+    "make": "Hyundai",
+    "model": "Kona Electric",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "350",
+    "type": "SUV Cover",
+    "foo": "Hyundai Santa Cruz",
+    "make": "Hyundai",
+    "model": "Santa Cruz",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "351",
+    "type": "SUV Cover",
+    "foo": "Hyundai Santa Fe Hybrid",
+    "make": "Hyundai",
+    "model": "Santa Fe Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "352",
+    "type": "SUV Cover",
+    "foo": "Hyundai Tucson Hybrid",
+    "make": "Hyundai",
+    "model": "Tucson Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "353",
+    "type": "SUV Cover",
+    "foo": "Jeep M151",
+    "make": "Jeep",
+    "model": "M151",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "354",
+    "type": "SUV Cover",
+    "foo": "Kia Carnival",
+    "make": "Kia",
+    "model": "Carnival",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "355",
+    "type": "SUV Cover",
+    "foo": "Kia EV6",
+    "make": "Kia",
+    "model": "EV6",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "356",
+    "type": "SUV Cover",
+    "foo": "Kia Niro EV",
+    "make": "Kia",
+    "model": "Niro EV",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "357",
+    "type": "SUV Cover",
+    "foo": "Kia Niro Hybrid",
+    "make": "Kia",
+    "model": "Niro Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "358",
+    "type": "SUV Cover",
+    "foo": "Kia Sorento Hybrid",
+    "make": "Kia",
+    "model": "Sorento Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "359",
+    "type": "SUV Cover",
+    "foo": "Kia Sportage Hybrid",
+    "make": "Kia",
+    "model": "Sportage Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "360",
+    "type": "SUV Cover",
+    "foo": "Lexus LX 470",
+    "make": "Lexus",
+    "model": "LX 470",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "361",
+    "type": "SUV Cover",
+    "foo": "Lexus NX 250, 350, 350h, 450h+",
+    "make": "Lexus",
+    "model": "NX 250, 350, 350h, 450h+",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "362",
+    "type": "SUV Cover",
+    "foo": "Lexus RX 350, 350h, 500h",
+    "make": "Lexus",
+    "model": "RX 350, 350h, 500h",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "363",
+    "type": "SUV Cover",
+    "foo": "Lexus RX 350L, 450hL",
+    "make": "Lexus",
+    "model": "RX 350L, 450hL",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "364",
+    "type": "SUV Cover",
+    "foo": "Lexus RZ 450e",
+    "make": "Lexus",
+    "model": "RZ 450e",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "365",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-50",
+    "make": "Mazda",
+    "model": "CX-50",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "366",
+    "type": "SUV Cover",
+    "foo": "Mazda CX-90",
+    "make": "Mazda",
+    "model": "CX-90",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "367",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz EQB-Class",
+    "make": "Mercedes-Benz",
+    "model": "EQB-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "368",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz EQE-Class",
+    "make": "Mercedes-Benz",
+    "model": "EQE-Class",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "369",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz EQS-Class SUV",
+    "make": "Mercedes-Benz",
+    "model": "EQS-Class SUV",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "370",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLC-Class Coupe",
+    "make": "Mercedes-Benz",
+    "model": "GLC-Class Coupe",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "371",
+    "type": "SUV Cover",
+    "foo": "Mercedes-Benz GLE-Class Coupe",
+    "make": "Mercedes-Benz",
+    "model": "GLE-Class Coupe",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "372",
+    "type": "SUV Cover",
+    "foo": "Nissan Rogue Sport",
+    "make": "Nissan",
+    "model": "Rogue Sport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "373",
+    "type": "SUV Cover",
+    "foo": "Porsche Cayenne Coupe",
+    "make": "Porsche",
+    "model": "Cayenne Coupe",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "374",
+    "type": "SUV Cover",
+    "foo": "Toyota bZ4X",
+    "make": "Toyota",
+    "model": "bZ4X",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "375",
+    "type": "SUV Cover",
+    "foo": "Toyota Corolla Cross",
+    "make": "Toyota",
+    "model": "Corolla Cross",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "376",
+    "type": "SUV Cover",
+    "foo": "Toyota Corolla Cross Hybrid",
+    "make": "Toyota",
+    "model": "Corolla Cross Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "377",
+    "type": "SUV Cover",
+    "foo": "Toyota Highlander Hybrid",
+    "make": "Toyota",
+    "model": "Highlander Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "378",
+    "type": "SUV Cover",
+    "foo": "Toyota RAV4 Hybrid",
+    "make": "Toyota",
+    "model": "RAV4 Hybrid",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "379",
+    "type": "SUV Cover",
+    "foo": "Toyota RAV4 Prime",
+    "make": "Toyota",
+    "model": "RAV4 Prime",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "380",
+    "type": "SUV Cover",
+    "foo": "Volkswagen Atlas Cross Sport",
+    "make": "Volkswagen",
+    "model": "Atlas Cross Sport",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "381",
+    "type": "SUV Cover",
+    "foo": "Volkswagen ID.4",
+    "make": "Volkswagen",
+    "model": "ID.4",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "382",
+    "type": "SUV Cover",
+    "foo": "Volkswagen T-Cross",
+    "make": "Volkswagen",
+    "model": "T-Cross",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "383",
+    "type": "SUV Cover",
+    "foo": "Volkswagen Touareg 2",
+    "make": "Volkswagen",
+    "model": "Touareg 2",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "384",
+    "type": "SUV Cover",
+    "foo": "Volvo C40 Recharge",
+    "make": "Volvo",
+    "model": "C40 Recharge",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "385",
+    "type": "SUV Cover",
+    "foo": "Volvo XC40 Recharge",
+    "make": "Volvo",
+    "model": "XC40 Recharge",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "386",
+    "type": "SUV Cover",
+    "foo": "Volvo XC60 Recharge",
+    "make": "Volvo",
+    "model": "XC60 Recharge",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  },
+  {
+    "id": "387",
+    "type": "SUV Cover",
+    "foo": "Volvo XC90 Recharge",
+    "make": "Volvo",
+    "model": "XC90 Recharge",
+    "default_model_images": "http://www.coverland.com/pub/media/category-images-new/suv-premium-plus-bkgr-str.webp,http://www.coverland.com/pub/media/category-images-new/suv-premium-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-pro-gr-1to.webp,http://www.coverland.com/pub/media/category-images-new/suv-standard-gr-1to.webp"
+  }  
+]
